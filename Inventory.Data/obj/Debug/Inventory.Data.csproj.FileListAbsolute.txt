@@ -1,0 +1,12 @@
+C:\Users\CITT_PC\Desktop\InventarioCitt\Inventory.Data\bin\Debug\Inventory.Data.dll.config
+C:\Users\CITT_PC\Desktop\InventarioCitt\Inventory.Data\bin\Debug\Inventory.Data.dll
+C:\Users\CITT_PC\Desktop\InventarioCitt\Inventory.Data\bin\Debug\Inventory.Data.pdb
+C:\Users\CITT_PC\Desktop\InventarioCitt\Inventory.Data\bin\Debug\EntityFramework.dll
+C:\Users\CITT_PC\Desktop\InventarioCitt\Inventory.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\CITT_PC\Desktop\InventarioCitt\Inventory.Data\bin\Debug\EntityFramework.xml
+C:\Users\CITT_PC\Desktop\InventarioCitt\Inventory.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\CITT_PC\Desktop\InventarioCitt\Inventory.Data\obj\Debug\Inventory.Data.csprojAssemblyReference.cache
+C:\Users\CITT_PC\Desktop\InventarioCitt\Inventory.Data\obj\Debug\Inventory.Data.csproj.CoreCompileInputs.cache
+C:\Users\CITT_PC\Desktop\InventarioCitt\Inventory.Data\obj\Debug\Inventory.Data.csproj.CopyComplete
+C:\Users\CITT_PC\Desktop\InventarioCitt\Inventory.Data\obj\Debug\Inventory.Data.dll
+C:\Users\CITT_PC\Desktop\InventarioCitt\Inventory.Data\obj\Debug\Inventory.Data.pdb

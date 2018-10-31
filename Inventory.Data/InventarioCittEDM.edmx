@@ -1,0 +1,213 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+  <!-- EF Runtime content -->
+  <edmx:Runtime>
+    <!-- SSDL content -->
+    <edmx:StorageModels>
+      <Schema Namespace="InventarioCittBDModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+        <EntityType Name="article">
+          <Key>
+            <PropertyRef Name="ID" />
+          </Key>
+          <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="NameArticle" Type="varchar" MaxLength="30" Nullable="false" />
+          <Property Name="Stock" Type="int" Nullable="false" />
+          <Property Name="Locker" Type="varchar" MaxLength="15" />
+          <Property Name="DescriptionArticle" Type="varchar" MaxLength="100" />
+        </EntityType>
+        <EntityType Name="leader">
+          <Key>
+            <PropertyRef Name="Rut" />
+          </Key>
+          <Property Name="Rut" Type="int" Nullable="false" />
+          <Property Name="Dv" Type="varchar" MaxLength="1" />
+          <Property Name="NameLeader" Type="varchar" MaxLength="30" />
+          <Property Name="WorkingDay" Type="varchar" MaxLength="10" />
+          <Property Name="career" Type="varchar" MaxLength="30" />
+          <Property Name="job" Type="varchar" MaxLength="15" />
+        </EntityType>
+        <EntityType Name="request">
+          <Key>
+            <PropertyRef Name="IDrequest" />
+          </Key>
+          <Property Name="IDrequest" Type="int" Nullable="false" />
+          <Property Name="NameRequest" Type="varchar" MaxLength="30" />
+          <Property Name="Quantity" Type="int" />
+          <Property Name="email" Type="varchar" MaxLength="50" />
+        </EntityType>
+        <Association Name="FK_ArticleRequest">
+          <End Role="article" Type="Self.article" Multiplicity="1" />
+          <End Role="request" Type="Self.request" Multiplicity="0..1" />
+          <ReferentialConstraint>
+            <Principal Role="article">
+              <PropertyRef Name="ID" />
+            </Principal>
+            <Dependent Role="request">
+              <PropertyRef Name="IDrequest" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_LeaderRequest">
+          <End Role="leader" Type="Self.leader" Multiplicity="1" />
+          <End Role="request" Type="Self.request" Multiplicity="0..1" />
+          <ReferentialConstraint>
+            <Principal Role="leader">
+              <PropertyRef Name="Rut" />
+            </Principal>
+            <Dependent Role="request">
+              <PropertyRef Name="IDrequest" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <EntityContainer Name="InventarioCittBDModelStoreContainer">
+          <EntitySet Name="article" EntityType="Self.article" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="leader" EntityType="Self.leader" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="request" EntityType="Self.request" Schema="dbo" store:Type="Tables" />
+          <AssociationSet Name="FK_ArticleRequest" Association="Self.FK_ArticleRequest">
+            <End Role="article" EntitySet="article" />
+            <End Role="request" EntitySet="request" />
+          </AssociationSet>
+          <AssociationSet Name="FK_LeaderRequest" Association="Self.FK_LeaderRequest">
+            <End Role="leader" EntitySet="leader" />
+            <End Role="request" EntitySet="request" />
+          </AssociationSet>
+        </EntityContainer>
+      </Schema>
+    </edmx:StorageModels>
+    <!-- CSDL content -->
+    <edmx:ConceptualModels>
+      <Schema Namespace="InventarioCittBDModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+        <EntityType Name="article">
+          <Key>
+            <PropertyRef Name="ID" />
+          </Key>
+          <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="NameArticle" Type="String" MaxLength="30" FixedLength="false" Unicode="false" Nullable="false" />
+          <Property Name="Stock" Type="Int32" Nullable="false" />
+          <Property Name="Locker" Type="String" MaxLength="15" FixedLength="false" Unicode="false" />
+          <Property Name="DescriptionArticle" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+          <NavigationProperty Name="request" Relationship="Self.FK_ArticleRequest" FromRole="article" ToRole="request" />
+        </EntityType>
+        <EntityType Name="leader">
+          <Key>
+            <PropertyRef Name="Rut" />
+          </Key>
+          <Property Name="Rut" Type="Int32" Nullable="false" />
+          <Property Name="Dv" Type="String" MaxLength="1" FixedLength="false" Unicode="false" />
+          <Property Name="NameLeader" Type="String" MaxLength="30" FixedLength="false" Unicode="false" />
+          <Property Name="WorkingDay" Type="String" MaxLength="10" FixedLength="false" Unicode="false" />
+          <Property Name="career" Type="String" MaxLength="30" FixedLength="false" Unicode="false" />
+          <Property Name="job" Type="String" MaxLength="15" FixedLength="false" Unicode="false" />
+          <NavigationProperty Name="request" Relationship="Self.FK_LeaderRequest" FromRole="leader" ToRole="request" />
+        </EntityType>
+        <EntityType Name="request">
+          <Key>
+            <PropertyRef Name="IDrequest" />
+          </Key>
+          <Property Name="IDrequest" Type="Int32" Nullable="false" />
+          <Property Name="NameRequest" Type="String" MaxLength="30" FixedLength="false" Unicode="false" />
+          <Property Name="Quantity" Type="Int32" />
+          <Property Name="email" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <NavigationProperty Name="article" Relationship="Self.FK_ArticleRequest" FromRole="request" ToRole="article" />
+          <NavigationProperty Name="leader" Relationship="Self.FK_LeaderRequest" FromRole="request" ToRole="leader" />
+        </EntityType>
+        <Association Name="FK_ArticleRequest">
+          <End Role="article" Type="Self.article" Multiplicity="1" />
+          <End Role="request" Type="Self.request" Multiplicity="0..1" />
+          <ReferentialConstraint>
+            <Principal Role="article">
+              <PropertyRef Name="ID" />
+            </Principal>
+            <Dependent Role="request">
+              <PropertyRef Name="IDrequest" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_LeaderRequest">
+          <End Role="leader" Type="Self.leader" Multiplicity="1" />
+          <End Role="request" Type="Self.request" Multiplicity="0..1" />
+          <ReferentialConstraint>
+            <Principal Role="leader">
+              <PropertyRef Name="Rut" />
+            </Principal>
+            <Dependent Role="request">
+              <PropertyRef Name="IDrequest" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <EntityContainer Name="InventarioCittBDEntities1" annotation:LazyLoadingEnabled="true">
+          <EntitySet Name="article" EntityType="Self.article" />
+          <EntitySet Name="leader" EntityType="Self.leader" />
+          <EntitySet Name="request" EntityType="Self.request" />
+          <AssociationSet Name="FK_ArticleRequest" Association="Self.FK_ArticleRequest">
+            <End Role="article" EntitySet="article" />
+            <End Role="request" EntitySet="request" />
+          </AssociationSet>
+          <AssociationSet Name="FK_LeaderRequest" Association="Self.FK_LeaderRequest">
+            <End Role="leader" EntitySet="leader" />
+            <End Role="request" EntitySet="request" />
+          </AssociationSet>
+        </EntityContainer>
+      </Schema>
+    </edmx:ConceptualModels>
+    <!-- C-S mapping content -->
+    <edmx:Mappings>
+      <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+        <EntityContainerMapping StorageEntityContainer="InventarioCittBDModelStoreContainer" CdmEntityContainer="InventarioCittBDEntities1">
+          <EntitySetMapping Name="article">
+            <EntityTypeMapping TypeName="InventarioCittBDModel.article">
+              <MappingFragment StoreEntitySet="article">
+                <ScalarProperty Name="ID" ColumnName="ID" />
+                <ScalarProperty Name="NameArticle" ColumnName="NameArticle" />
+                <ScalarProperty Name="Stock" ColumnName="Stock" />
+                <ScalarProperty Name="Locker" ColumnName="Locker" />
+                <ScalarProperty Name="DescriptionArticle" ColumnName="DescriptionArticle" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="leader">
+            <EntityTypeMapping TypeName="InventarioCittBDModel.leader">
+              <MappingFragment StoreEntitySet="leader">
+                <ScalarProperty Name="Rut" ColumnName="Rut" />
+                <ScalarProperty Name="Dv" ColumnName="Dv" />
+                <ScalarProperty Name="NameLeader" ColumnName="NameLeader" />
+                <ScalarProperty Name="WorkingDay" ColumnName="WorkingDay" />
+                <ScalarProperty Name="career" ColumnName="career" />
+                <ScalarProperty Name="job" ColumnName="job" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="request">
+            <EntityTypeMapping TypeName="InventarioCittBDModel.request">
+              <MappingFragment StoreEntitySet="request">
+                <ScalarProperty Name="IDrequest" ColumnName="IDrequest" />
+                <ScalarProperty Name="NameRequest" ColumnName="NameRequest" />
+                <ScalarProperty Name="Quantity" ColumnName="Quantity" />
+                <ScalarProperty Name="email" ColumnName="email" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+        </EntityContainerMapping>
+      </Mapping>
+    </edmx:Mappings>
+  </edmx:Runtime>
+  <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <Connection>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="MetadataArtifactProcessing" Value="EmbedInOutputAssembly" />
+      </DesignerInfoPropertySet>
+    </Connection>
+    <Options>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="ValidateOnBuild" Value="true" />
+        <DesignerProperty Name="EnablePluralization" Value="false" />
+        <DesignerProperty Name="IncludeForeignKeysInModel" Value="true" />
+        <DesignerProperty Name="UseLegacyProvider" Value="false" />
+        <DesignerProperty Name="CodeGenerationStrategy" Value="Ninguno" />
+      </DesignerInfoPropertySet>
+    </Options>
+    <!-- Diagram content (shape and connector positions) -->
+    <Diagrams></Diagrams>
+  </Designer>
+</edmx:Edmx>

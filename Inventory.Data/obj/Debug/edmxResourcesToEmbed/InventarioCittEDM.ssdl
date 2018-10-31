@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="InventarioCittBDModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="article">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="NameArticle" Type="varchar" MaxLength="30" Nullable="false" />
+    <Property Name="Stock" Type="int" Nullable="false" />
+    <Property Name="Locker" Type="varchar" MaxLength="15" />
+    <Property Name="DescriptionArticle" Type="varchar" MaxLength="100" />
+  </EntityType>
+  <EntityType Name="leader">
+    <Key>
+      <PropertyRef Name="Rut" />
+    </Key>
+    <Property Name="Rut" Type="int" Nullable="false" />
+    <Property Name="Dv" Type="varchar" MaxLength="1" />
+    <Property Name="NameLeader" Type="varchar" MaxLength="30" />
+    <Property Name="WorkingDay" Type="varchar" MaxLength="10" />
+    <Property Name="career" Type="varchar" MaxLength="30" />
+    <Property Name="job" Type="varchar" MaxLength="15" />
+  </EntityType>
+  <EntityType Name="request">
+    <Key>
+      <PropertyRef Name="IDrequest" />
+    </Key>
+    <Property Name="IDrequest" Type="int" Nullable="false" />
+    <Property Name="NameRequest" Type="varchar" MaxLength="30" />
+    <Property Name="Quantity" Type="int" />
+    <Property Name="email" Type="varchar" MaxLength="50" />
+  </EntityType>
+  <Association Name="FK_ArticleRequest">
+    <End Role="article" Type="Self.article" Multiplicity="1" />
+    <End Role="request" Type="Self.request" Multiplicity="0..1" />
+    <ReferentialConstraint>
+      <Principal Role="article">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="request">
+        <PropertyRef Name="IDrequest" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_LeaderRequest">
+    <End Role="leader" Type="Self.leader" Multiplicity="1" />
+    <End Role="request" Type="Self.request" Multiplicity="0..1" />
+    <ReferentialConstraint>
+      <Principal Role="leader">
+        <PropertyRef Name="Rut" />
+      </Principal>
+      <Dependent Role="request">
+        <PropertyRef Name="IDrequest" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="InventarioCittBDModelStoreContainer">
+    <EntitySet Name="article" EntityType="Self.article" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="leader" EntityType="Self.leader" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="request" EntityType="Self.request" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK_ArticleRequest" Association="Self.FK_ArticleRequest">
+      <End Role="article" EntitySet="article" />
+      <End Role="request" EntitySet="request" />
+    </AssociationSet>
+    <AssociationSet Name="FK_LeaderRequest" Association="Self.FK_LeaderRequest">
+      <End Role="leader" EntitySet="leader" />
+      <End Role="request" EntitySet="request" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

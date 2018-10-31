@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="InventarioCittBDModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="article">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" />
+    <Property Name="NameArticle" Type="String" MaxLength="30" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Stock" Type="Int32" Nullable="false" />
+    <Property Name="Locker" Type="String" MaxLength="15" FixedLength="false" Unicode="false" />
+    <Property Name="DescriptionArticle" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="request" Relationship="Self.FK_ArticleRequest" FromRole="article" ToRole="request" />
+  </EntityType>
+  <EntityType Name="leader">
+    <Key>
+      <PropertyRef Name="Rut" />
+    </Key>
+    <Property Name="Rut" Type="Int32" Nullable="false" />
+    <Property Name="Dv" Type="String" MaxLength="1" FixedLength="false" Unicode="false" />
+    <Property Name="NameLeader" Type="String" MaxLength="30" FixedLength="false" Unicode="false" />
+    <Property Name="WorkingDay" Type="String" MaxLength="10" FixedLength="false" Unicode="false" />
+    <Property Name="career" Type="String" MaxLength="30" FixedLength="false" Unicode="false" />
+    <Property Name="job" Type="String" MaxLength="15" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="request" Relationship="Self.FK_LeaderRequest" FromRole="leader" ToRole="request" />
+  </EntityType>
+  <EntityType Name="request">
+    <Key>
+      <PropertyRef Name="IDrequest" />
+    </Key>
+    <Property Name="IDrequest" Type="Int32" Nullable="false" />
+    <Property Name="NameRequest" Type="String" MaxLength="30" FixedLength="false" Unicode="false" />
+    <Property Name="Quantity" Type="Int32" />
+    <Property Name="email" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="article" Relationship="Self.FK_ArticleRequest" FromRole="request" ToRole="article" />
+    <NavigationProperty Name="leader" Relationship="Self.FK_LeaderRequest" FromRole="request" ToRole="leader" />
+  </EntityType>
+  <Association Name="FK_ArticleRequest">
+    <End Role="article" Type="Self.article" Multiplicity="1" />
+    <End Role="request" Type="Self.request" Multiplicity="0..1" />
+    <ReferentialConstraint>
+      <Principal Role="article">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="request">
+        <PropertyRef Name="IDrequest" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_LeaderRequest">
+    <End Role="leader" Type="Self.leader" Multiplicity="1" />
+    <End Role="request" Type="Self.request" Multiplicity="0..1" />
+    <ReferentialConstraint>
+      <Principal Role="leader">
+        <PropertyRef Name="Rut" />
+      </Principal>
+      <Dependent Role="request">
+        <PropertyRef Name="IDrequest" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="InventarioCittBDEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="article" EntityType="Self.article" />
+    <EntitySet Name="leader" EntityType="Self.leader" />
+    <EntitySet Name="request" EntityType="Self.request" />
+    <AssociationSet Name="FK_ArticleRequest" Association="Self.FK_ArticleRequest">
+      <End Role="article" EntitySet="article" />
+      <End Role="request" EntitySet="request" />
+    </AssociationSet>
+    <AssociationSet Name="FK_LeaderRequest" Association="Self.FK_LeaderRequest">
+      <End Role="leader" EntitySet="leader" />
+      <End Role="request" EntitySet="request" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

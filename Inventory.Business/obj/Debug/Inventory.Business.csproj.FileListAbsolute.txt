@@ -1,0 +1,39 @@
+C:\Users\Francisco\Desktop\ProyectoCiTT\InventarioCitt\Inventory.Business\bin\Debug\Inventory.Business.dll
+C:\Users\Francisco\Desktop\ProyectoCiTT\InventarioCitt\Inventory.Business\bin\Debug\Inventory.Business.pdb
+C:\Users\Francisco\Desktop\ProyectoCiTT\InventarioCitt\Inventory.Business\obj\Debug\Inventory.Business.csproj.CoreCompileInputs.cache
+C:\Users\Francisco\Desktop\ProyectoCiTT\InventarioCitt\Inventory.Business\obj\Debug\Inventory.Business.dll
+C:\Users\Francisco\Desktop\ProyectoCiTT\InventarioCitt\Inventory.Business\obj\Debug\Inventory.Business.pdb
+C:\Users\Dannyredapple\Desktop\Nueva carpeta (2)\ProyectoCiTT\InventarioCitt\Inventory.Business\bin\Debug\Inventory.Business.dll
+C:\Users\Dannyredapple\Desktop\Nueva carpeta (2)\ProyectoCiTT\InventarioCitt\Inventory.Business\bin\Debug\Inventory.Business.pdb
+C:\Users\Dannyredapple\Desktop\Nueva carpeta (2)\ProyectoCiTT\InventarioCitt\Inventory.Business\obj\Debug\Inventory.Business.csprojAssemblyReference.cache
+C:\Users\Dannyredapple\Desktop\Nueva carpeta (2)\ProyectoCiTT\InventarioCitt\Inventory.Business\obj\Debug\Inventory.Business.csproj.CoreCompileInputs.cache
+C:\Users\Dannyredapple\Desktop\Nueva carpeta (2)\ProyectoCiTT\InventarioCitt\Inventory.Business\obj\Debug\Inventory.Business.dll
+C:\Users\Dannyredapple\Desktop\Nueva carpeta (2)\ProyectoCiTT\InventarioCitt\Inventory.Business\obj\Debug\Inventory.Business.pdb
+C:\Users\CITT_PC\Desktop\ProyectoCiTT\InventarioCitt\Inventory.Business\bin\Debug\Inventory.Business.dll
+C:\Users\CITT_PC\Desktop\ProyectoCiTT\InventarioCitt\Inventory.Business\bin\Debug\Inventory.Business.pdb
+C:\Users\CITT_PC\Desktop\ProyectoCiTT\InventarioCitt\Inventory.Business\obj\Debug\Inventory.Business.csprojAssemblyReference.cache
+C:\Users\CITT_PC\Desktop\ProyectoCiTT\InventarioCitt\Inventory.Business\obj\Debug\Inventory.Business.csproj.CoreCompileInputs.cache
+C:\Users\CITT_PC\Desktop\ProyectoCiTT\InventarioCitt\Inventory.Business\obj\Debug\Inventory.Business.dll
+C:\Users\CITT_PC\Desktop\ProyectoCiTT\InventarioCitt\Inventory.Business\obj\Debug\Inventory.Business.pdb
+C:\Users\Francisco\Desktop\ProyectoCiTT\InventarioCitt\Inventory.Business\obj\Debug\Inventory.Business.csprojAssemblyReference.cache
+C:\Users\PC-CITT\Desktop\DEN\ProyectoCiTT\InventarioCitt\Inventory.Business\bin\Debug\Inventory.Business.dll
+C:\Users\PC-CITT\Desktop\DEN\ProyectoCiTT\InventarioCitt\Inventory.Business\bin\Debug\Inventory.Business.pdb
+C:\Users\PC-CITT\Desktop\DEN\ProyectoCiTT\InventarioCitt\Inventory.Business\obj\Debug\Inventory.Business.csprojAssemblyReference.cache
+C:\Users\PC-CITT\Desktop\DEN\ProyectoCiTT\InventarioCitt\Inventory.Business\obj\Debug\Inventory.Business.csproj.CoreCompileInputs.cache
+C:\Users\PC-CITT\Desktop\DEN\ProyectoCiTT\InventarioCitt\Inventory.Business\obj\Debug\Inventory.Business.dll
+C:\Users\PC-CITT\Desktop\DEN\ProyectoCiTT\InventarioCitt\Inventory.Business\obj\Debug\Inventory.Business.pdb
+C:\Users\CITT_PC\Desktop\InventarioCitt\Inventory.Business\bin\Debug\Inventory.Business.dll.config
+C:\Users\CITT_PC\Desktop\InventarioCitt\Inventory.Business\bin\Debug\Inventory.Business.dll
+C:\Users\CITT_PC\Desktop\InventarioCitt\Inventory.Business\bin\Debug\Inventory.Business.pdb
+C:\Users\CITT_PC\Desktop\InventarioCitt\Inventory.Business\bin\Debug\EntityFramework.dll
+C:\Users\CITT_PC\Desktop\InventarioCitt\Inventory.Business\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\CITT_PC\Desktop\InventarioCitt\Inventory.Business\bin\Debug\Inventory.Data.dll
+C:\Users\CITT_PC\Desktop\InventarioCitt\Inventory.Business\bin\Debug\Inventory.Data.pdb
+C:\Users\CITT_PC\Desktop\InventarioCitt\Inventory.Business\bin\Debug\Inventory.Data.dll.config
+C:\Users\CITT_PC\Desktop\InventarioCitt\Inventory.Business\bin\Debug\EntityFramework.xml
+C:\Users\CITT_PC\Desktop\InventarioCitt\Inventory.Business\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\CITT_PC\Desktop\InventarioCitt\Inventory.Business\obj\Debug\Inventory.Business.csprojAssemblyReference.cache
+C:\Users\CITT_PC\Desktop\InventarioCitt\Inventory.Business\obj\Debug\Inventory.Business.csproj.CoreCompileInputs.cache
+C:\Users\CITT_PC\Desktop\InventarioCitt\Inventory.Business\obj\Debug\Inventory.Business.csproj.CopyComplete
+C:\Users\CITT_PC\Desktop\InventarioCitt\Inventory.Business\obj\Debug\Inventory.Business.dll
+C:\Users\CITT_PC\Desktop\InventarioCitt\Inventory.Business\obj\Debug\Inventory.Business.pdb

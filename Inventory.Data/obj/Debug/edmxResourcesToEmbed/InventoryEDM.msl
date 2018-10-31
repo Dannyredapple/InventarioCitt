@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="InventarioCittBDModelStoreContainer" CdmEntityContainer="InventarioCittBDEntities">
+    <EntitySetMapping Name="article">
+      <EntityTypeMapping TypeName="InventarioCittBDModel.article">
+        <MappingFragment StoreEntitySet="article">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="NameArticle" ColumnName="NameArticle" />
+          <ScalarProperty Name="Stock" ColumnName="Stock" />
+          <ScalarProperty Name="Locker" ColumnName="Locker" />
+          <ScalarProperty Name="DescriptionArticle" ColumnName="DescriptionArticle" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="leader">
+      <EntityTypeMapping TypeName="InventarioCittBDModel.leader">
+        <MappingFragment StoreEntitySet="leader">
+          <ScalarProperty Name="Rut" ColumnName="Rut" />
+          <ScalarProperty Name="Dv" ColumnName="Dv" />
+          <ScalarProperty Name="NameLeader" ColumnName="NameLeader" />
+          <ScalarProperty Name="WorkingDay" ColumnName="WorkingDay" />
+          <ScalarProperty Name="career" ColumnName="career" />
+          <ScalarProperty Name="job" ColumnName="job" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="request">
+      <EntityTypeMapping TypeName="InventarioCittBDModel.request">
+        <MappingFragment StoreEntitySet="request">
+          <ScalarProperty Name="IDrequest" ColumnName="IDrequest" />
+          <ScalarProperty Name="NameRequest" ColumnName="NameRequest" />
+          <ScalarProperty Name="Quantity" ColumnName="Quantity" />
+          <ScalarProperty Name="email" ColumnName="email" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

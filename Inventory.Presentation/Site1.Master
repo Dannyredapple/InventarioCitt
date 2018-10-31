@@ -1,0 +1,87 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site1.master.cs" Inherits="Inventory.Presentation.Site1" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <link href="Css/Main.css" rel="stylesheet" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <title>Inventario CITT</title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <header>
+        <h3 style="text-decoration:none;>
+            <a href="index.aspx"> 
+            <img src="img/CITT.jpg"/>
+        </a>
+        </h3>
+    </header>
+    <br />
+    <form id="form1" runat="server">
+    
+    <nav>
+        <div id="MenuNavegacion" class="w3-bar w3-white">
+            <a href="index.aspx" class="w3-bar-item w3-button">Inicio</a>
+            <a href="Form.aspx" class="w3-bar-item w3-button" >Registro de Articulos</a>
+            <a href="InventoryView.aspx" class="w3-bar-item w3-button">Inventario</a>
+<%--            <a href="RequestArticule.aspx" class="w3-bar-item w3-button">Solicitar articulo</a>--%>
+            <a href="NewLeader.aspx" class="w3-bar-item w3-button">Registro Capitanes</a>
+            <a href="LeaderView.aspx" class="w3-bar-item w3-button">Capitanes</a>
+            <a href="StartSession.aspx" class="w3-bar-item w3-button">Cerrar Sesion</a>
+        </div>
+        <br />
+    </nav>
+        <main>
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server"><!--Cambio-->
+            </asp:ContentPlaceHolder><!--Cambio-->
+        </main>
+    </form>
+    <br />
+
+<footer class="page-footer font-small teal ">
+
+    <!-- Footer Text -->
+    <div class="container-fluid text-center text-md-left">
+
+      <!-- Grid row -->
+      <div class="row">
+
+        <!-- Grid column -->
+        <div class="col-md-6 mb-md-0 mb-3">
+
+          <!-- Content -->
+          <h5 class="text-uppercase font-weight-bold">Informaciones:         <table>
+             <tr>
+                <td>Ubicacion:</td>
+                <td>Torre N°2, Segundo piso</td>
+            </tr>
+            <tr>
+                <td>Correo:</td>
+                <td><a href="mailto:Citt.maipu20xx@gmail.com">Citt.maipu20xx@gmail.com</a></td>
+            </tr>
+            <tr>
+                <td>Cordinador CITT:</td>
+                <td>Jean Paul Fuentes Tognarelli</td>
+            </tr>
+            </table>
+        </div>
+        <!-- Grid column -->
+
+      </div>
+      <!-- Grid row -->
+
+    </div>
+    <!-- Footer Text -->
+    <br />
+    <div class="footer-copyright py-3">© 2018 Inventario CITT
+    </div>
+
+  </footer>
+  <!-- Footer -->
+</body>
+</html>

@@ -1,0 +1,428 @@
+C:\Users\Francisco\Desktop\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\Inventory.Presentation.dll.config
+C:\Users\Francisco\Desktop\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\Inventory.Presentation.dll
+C:\Users\Francisco\Desktop\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\Inventory.Presentation.pdb
+C:\Users\Francisco\Desktop\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\csc.exe
+C:\Users\Francisco\Desktop\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\csc.exe.config
+C:\Users\Francisco\Desktop\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\csc.rsp
+C:\Users\Francisco\Desktop\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\csi.exe
+C:\Users\Francisco\Desktop\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\csi.exe.config
+C:\Users\Francisco\Desktop\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\csi.rsp
+C:\Users\Francisco\Desktop\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Francisco\Desktop\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Francisco\Desktop\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Francisco\Desktop\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Francisco\Desktop\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Francisco\Desktop\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Francisco\Desktop\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Francisco\Desktop\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Francisco\Desktop\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Francisco\Desktop\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Francisco\Desktop\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Francisco\Desktop\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\System.AppContext.dll
+C:\Users\Francisco\Desktop\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Francisco\Desktop\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\System.Console.dll
+C:\Users\Francisco\Desktop\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Francisco\Desktop\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Francisco\Desktop\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Francisco\Desktop\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\System.IO.Compression.dll
+C:\Users\Francisco\Desktop\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Francisco\Desktop\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Francisco\Desktop\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Francisco\Desktop\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Francisco\Desktop\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Francisco\Desktop\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Francisco\Desktop\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\System.Security.Claims.dll
+C:\Users\Francisco\Desktop\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Francisco\Desktop\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Francisco\Desktop\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Francisco\Desktop\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Francisco\Desktop\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Francisco\Desktop\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Francisco\Desktop\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Francisco\Desktop\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\System.ValueTuple.dll
+C:\Users\Francisco\Desktop\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Francisco\Desktop\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Francisco\Desktop\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Francisco\Desktop\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Francisco\Desktop\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\vbc.exe
+C:\Users\Francisco\Desktop\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\vbc.exe.config
+C:\Users\Francisco\Desktop\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\vbc.rsp
+C:\Users\Francisco\Desktop\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\VBCSCompiler.exe
+C:\Users\Francisco\Desktop\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Francisco\Desktop\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\Inventory.Business.dll
+C:\Users\Francisco\Desktop\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Francisco\Desktop\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\Inventory.Business.pdb
+C:\Users\Francisco\Desktop\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Francisco\Desktop\ProyectoCiTT\InventarioCitt\Inventory.Presentation\obj\Debug\Inventory.Presentation.csprojAssemblyReference.cache
+C:\Users\Francisco\Desktop\ProyectoCiTT\InventarioCitt\Inventory.Presentation\obj\Debug\Inventory.Presentation.csproj.CoreCompileInputs.cache
+C:\Users\Francisco\Desktop\ProyectoCiTT\InventarioCitt\Inventory.Presentation\obj\Debug\Inventory.Presentation.csproj.CopyComplete
+C:\Users\Francisco\Desktop\ProyectoCiTT\InventarioCitt\Inventory.Presentation\obj\Debug\Inventory.Presentation.dll
+C:\Users\Francisco\Desktop\ProyectoCiTT\InventarioCitt\Inventory.Presentation\obj\Debug\Inventory.Presentation.pdb
+C:\Users\Dannyredapple\Desktop\Nueva carpeta (2)\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\Inventory.Presentation.dll.config
+C:\Users\Dannyredapple\Desktop\Nueva carpeta (2)\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\Inventory.Presentation.dll
+C:\Users\Dannyredapple\Desktop\Nueva carpeta (2)\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\Inventory.Presentation.pdb
+C:\Users\Dannyredapple\Desktop\Nueva carpeta (2)\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\csc.exe
+C:\Users\Dannyredapple\Desktop\Nueva carpeta (2)\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\csc.exe.config
+C:\Users\Dannyredapple\Desktop\Nueva carpeta (2)\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\csc.rsp
+C:\Users\Dannyredapple\Desktop\Nueva carpeta (2)\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\csi.exe
+C:\Users\Dannyredapple\Desktop\Nueva carpeta (2)\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\csi.exe.config
+C:\Users\Dannyredapple\Desktop\Nueva carpeta (2)\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\csi.rsp
+C:\Users\Dannyredapple\Desktop\Nueva carpeta (2)\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Dannyredapple\Desktop\Nueva carpeta (2)\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Dannyredapple\Desktop\Nueva carpeta (2)\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Dannyredapple\Desktop\Nueva carpeta (2)\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Dannyredapple\Desktop\Nueva carpeta (2)\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Dannyredapple\Desktop\Nueva carpeta (2)\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Dannyredapple\Desktop\Nueva carpeta (2)\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Dannyredapple\Desktop\Nueva carpeta (2)\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Dannyredapple\Desktop\Nueva carpeta (2)\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Dannyredapple\Desktop\Nueva carpeta (2)\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Dannyredapple\Desktop\Nueva carpeta (2)\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Dannyredapple\Desktop\Nueva carpeta (2)\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\System.AppContext.dll
+C:\Users\Dannyredapple\Desktop\Nueva carpeta (2)\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Dannyredapple\Desktop\Nueva carpeta (2)\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\System.Console.dll
+C:\Users\Dannyredapple\Desktop\Nueva carpeta (2)\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Dannyredapple\Desktop\Nueva carpeta (2)\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Dannyredapple\Desktop\Nueva carpeta (2)\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Dannyredapple\Desktop\Nueva carpeta (2)\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\System.IO.Compression.dll
+C:\Users\Dannyredapple\Desktop\Nueva carpeta (2)\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Dannyredapple\Desktop\Nueva carpeta (2)\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Dannyredapple\Desktop\Nueva carpeta (2)\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Dannyredapple\Desktop\Nueva carpeta (2)\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Dannyredapple\Desktop\Nueva carpeta (2)\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Dannyredapple\Desktop\Nueva carpeta (2)\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Dannyredapple\Desktop\Nueva carpeta (2)\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\System.Security.Claims.dll
+C:\Users\Dannyredapple\Desktop\Nueva carpeta (2)\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Dannyredapple\Desktop\Nueva carpeta (2)\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Dannyredapple\Desktop\Nueva carpeta (2)\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Dannyredapple\Desktop\Nueva carpeta (2)\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Dannyredapple\Desktop\Nueva carpeta (2)\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Dannyredapple\Desktop\Nueva carpeta (2)\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Dannyredapple\Desktop\Nueva carpeta (2)\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Dannyredapple\Desktop\Nueva carpeta (2)\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\System.ValueTuple.dll
+C:\Users\Dannyredapple\Desktop\Nueva carpeta (2)\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Dannyredapple\Desktop\Nueva carpeta (2)\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Dannyredapple\Desktop\Nueva carpeta (2)\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Dannyredapple\Desktop\Nueva carpeta (2)\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Dannyredapple\Desktop\Nueva carpeta (2)\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\vbc.exe
+C:\Users\Dannyredapple\Desktop\Nueva carpeta (2)\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\vbc.exe.config
+C:\Users\Dannyredapple\Desktop\Nueva carpeta (2)\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\vbc.rsp
+C:\Users\Dannyredapple\Desktop\Nueva carpeta (2)\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\VBCSCompiler.exe
+C:\Users\Dannyredapple\Desktop\Nueva carpeta (2)\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Dannyredapple\Desktop\Nueva carpeta (2)\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\Inventory.Business.dll
+C:\Users\Dannyredapple\Desktop\Nueva carpeta (2)\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Dannyredapple\Desktop\Nueva carpeta (2)\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\Inventory.Business.pdb
+C:\Users\Dannyredapple\Desktop\Nueva carpeta (2)\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Dannyredapple\Desktop\Nueva carpeta (2)\ProyectoCiTT\InventarioCitt\Inventory.Presentation\obj\Debug\Inventory.Presentation.csprojAssemblyReference.cache
+C:\Users\Dannyredapple\Desktop\Nueva carpeta (2)\ProyectoCiTT\InventarioCitt\Inventory.Presentation\obj\Debug\Inventory.Presentation.csproj.CoreCompileInputs.cache
+C:\Users\Dannyredapple\Desktop\Nueva carpeta (2)\ProyectoCiTT\InventarioCitt\Inventory.Presentation\obj\Debug\Inventory.Presentation.csproj.CopyComplete
+C:\Users\Dannyredapple\Desktop\Nueva carpeta (2)\ProyectoCiTT\InventarioCitt\Inventory.Presentation\obj\Debug\Inventory.Presentation.dll
+C:\Users\Dannyredapple\Desktop\Nueva carpeta (2)\ProyectoCiTT\InventarioCitt\Inventory.Presentation\obj\Debug\Inventory.Presentation.pdb
+C:\Users\citt games\Desktop\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\Inventory.Presentation.dll.config
+C:\Users\citt games\Desktop\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\Inventory.Presentation.dll
+C:\Users\citt games\Desktop\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\Inventory.Presentation.pdb
+C:\Users\citt games\Desktop\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\csc.exe
+C:\Users\citt games\Desktop\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\csc.exe.config
+C:\Users\citt games\Desktop\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\csc.rsp
+C:\Users\citt games\Desktop\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\csi.exe
+C:\Users\citt games\Desktop\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\csi.exe.config
+C:\Users\citt games\Desktop\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\csi.rsp
+C:\Users\citt games\Desktop\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\citt games\Desktop\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\citt games\Desktop\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\citt games\Desktop\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\citt games\Desktop\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\citt games\Desktop\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\citt games\Desktop\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\citt games\Desktop\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\citt games\Desktop\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\citt games\Desktop\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\citt games\Desktop\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\citt games\Desktop\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\System.AppContext.dll
+C:\Users\citt games\Desktop\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\citt games\Desktop\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\System.Console.dll
+C:\Users\citt games\Desktop\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\citt games\Desktop\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\citt games\Desktop\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\citt games\Desktop\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\System.IO.Compression.dll
+C:\Users\citt games\Desktop\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\citt games\Desktop\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\citt games\Desktop\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\citt games\Desktop\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\System.IO.Pipes.dll
+C:\Users\citt games\Desktop\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\citt games\Desktop\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\citt games\Desktop\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\System.Security.Claims.dll
+C:\Users\citt games\Desktop\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\citt games\Desktop\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\citt games\Desktop\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\citt games\Desktop\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\citt games\Desktop\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\citt games\Desktop\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\citt games\Desktop\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\System.Threading.Thread.dll
+C:\Users\citt games\Desktop\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\System.ValueTuple.dll
+C:\Users\citt games\Desktop\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\citt games\Desktop\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\citt games\Desktop\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\System.Xml.XPath.dll
+C:\Users\citt games\Desktop\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\citt games\Desktop\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\vbc.exe
+C:\Users\citt games\Desktop\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\vbc.exe.config
+C:\Users\citt games\Desktop\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\vbc.rsp
+C:\Users\citt games\Desktop\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\VBCSCompiler.exe
+C:\Users\citt games\Desktop\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\citt games\Desktop\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\Inventory.Business.dll
+C:\Users\citt games\Desktop\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\citt games\Desktop\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\Inventory.Business.pdb
+C:\Users\citt games\Desktop\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\citt games\Desktop\ProyectoCiTT\InventarioCitt\Inventory.Presentation\obj\Debug\Inventory.Presentation.csprojAssemblyReference.cache
+C:\Users\citt games\Desktop\ProyectoCiTT\InventarioCitt\Inventory.Presentation\obj\Debug\Inventory.Presentation.csproj.CoreCompileInputs.cache
+C:\Users\citt games\Desktop\ProyectoCiTT\InventarioCitt\Inventory.Presentation\obj\Debug\Inventory.Presentation.csproj.CopyComplete
+C:\Users\citt games\Desktop\ProyectoCiTT\InventarioCitt\Inventory.Presentation\obj\Debug\Inventory.Presentation.dll
+C:\Users\citt games\Desktop\ProyectoCiTT\InventarioCitt\Inventory.Presentation\obj\Debug\Inventory.Presentation.pdb
+C:\Users\CITT_PC\Desktop\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\Inventory.Presentation.dll.config
+C:\Users\CITT_PC\Desktop\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\Inventory.Presentation.dll
+C:\Users\CITT_PC\Desktop\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\Inventory.Presentation.pdb
+C:\Users\CITT_PC\Desktop\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\csc.exe
+C:\Users\CITT_PC\Desktop\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\csc.exe.config
+C:\Users\CITT_PC\Desktop\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\csc.rsp
+C:\Users\CITT_PC\Desktop\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\csi.exe
+C:\Users\CITT_PC\Desktop\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\csi.exe.config
+C:\Users\CITT_PC\Desktop\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\csi.rsp
+C:\Users\CITT_PC\Desktop\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\CITT_PC\Desktop\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\CITT_PC\Desktop\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\CITT_PC\Desktop\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\CITT_PC\Desktop\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\CITT_PC\Desktop\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\CITT_PC\Desktop\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\CITT_PC\Desktop\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\CITT_PC\Desktop\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\CITT_PC\Desktop\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\CITT_PC\Desktop\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\CITT_PC\Desktop\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\System.AppContext.dll
+C:\Users\CITT_PC\Desktop\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\CITT_PC\Desktop\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\System.Console.dll
+C:\Users\CITT_PC\Desktop\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\CITT_PC\Desktop\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\CITT_PC\Desktop\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\CITT_PC\Desktop\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\System.IO.Compression.dll
+C:\Users\CITT_PC\Desktop\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\CITT_PC\Desktop\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\CITT_PC\Desktop\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\CITT_PC\Desktop\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\System.IO.Pipes.dll
+C:\Users\CITT_PC\Desktop\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\CITT_PC\Desktop\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\CITT_PC\Desktop\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\System.Security.Claims.dll
+C:\Users\CITT_PC\Desktop\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\CITT_PC\Desktop\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\CITT_PC\Desktop\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\CITT_PC\Desktop\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\CITT_PC\Desktop\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\CITT_PC\Desktop\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\CITT_PC\Desktop\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\System.Threading.Thread.dll
+C:\Users\CITT_PC\Desktop\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\System.ValueTuple.dll
+C:\Users\CITT_PC\Desktop\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\CITT_PC\Desktop\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\CITT_PC\Desktop\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\System.Xml.XPath.dll
+C:\Users\CITT_PC\Desktop\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\CITT_PC\Desktop\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\vbc.exe
+C:\Users\CITT_PC\Desktop\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\vbc.exe.config
+C:\Users\CITT_PC\Desktop\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\vbc.rsp
+C:\Users\CITT_PC\Desktop\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\VBCSCompiler.exe
+C:\Users\CITT_PC\Desktop\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\CITT_PC\Desktop\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\Inventory.Business.dll
+C:\Users\CITT_PC\Desktop\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\CITT_PC\Desktop\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\Inventory.Business.pdb
+C:\Users\CITT_PC\Desktop\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\CITT_PC\Desktop\ProyectoCiTT\InventarioCitt\Inventory.Presentation\obj\Debug\Inventory.Presentation.csprojAssemblyReference.cache
+C:\Users\CITT_PC\Desktop\ProyectoCiTT\InventarioCitt\Inventory.Presentation\obj\Debug\Inventory.Presentation.csproj.CoreCompileInputs.cache
+C:\Users\CITT_PC\Desktop\ProyectoCiTT\InventarioCitt\Inventory.Presentation\obj\Debug\Inventory.Presentation.csproj.CopyComplete
+C:\Users\CITT_PC\Desktop\ProyectoCiTT\InventarioCitt\Inventory.Presentation\obj\Debug\Inventory.Presentation.dll
+C:\Users\CITT_PC\Desktop\ProyectoCiTT\InventarioCitt\Inventory.Presentation\obj\Debug\Inventory.Presentation.pdb
+C:\Users\PC-CITT\Desktop\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\Inventory.Presentation.dll.config
+C:\Users\PC-CITT\Desktop\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\Inventory.Presentation.dll
+C:\Users\PC-CITT\Desktop\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\Inventory.Presentation.pdb
+C:\Users\PC-CITT\Desktop\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\csc.exe
+C:\Users\PC-CITT\Desktop\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\csc.exe.config
+C:\Users\PC-CITT\Desktop\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\csc.rsp
+C:\Users\PC-CITT\Desktop\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\csi.exe
+C:\Users\PC-CITT\Desktop\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\csi.exe.config
+C:\Users\PC-CITT\Desktop\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\csi.rsp
+C:\Users\PC-CITT\Desktop\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\PC-CITT\Desktop\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\PC-CITT\Desktop\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\PC-CITT\Desktop\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\PC-CITT\Desktop\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\PC-CITT\Desktop\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\PC-CITT\Desktop\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\PC-CITT\Desktop\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\PC-CITT\Desktop\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\PC-CITT\Desktop\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\PC-CITT\Desktop\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\PC-CITT\Desktop\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\System.AppContext.dll
+C:\Users\PC-CITT\Desktop\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\PC-CITT\Desktop\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\System.Console.dll
+C:\Users\PC-CITT\Desktop\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\PC-CITT\Desktop\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\PC-CITT\Desktop\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\PC-CITT\Desktop\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\System.IO.Compression.dll
+C:\Users\PC-CITT\Desktop\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\PC-CITT\Desktop\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\PC-CITT\Desktop\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\PC-CITT\Desktop\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\System.IO.Pipes.dll
+C:\Users\PC-CITT\Desktop\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\PC-CITT\Desktop\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\PC-CITT\Desktop\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\System.Security.Claims.dll
+C:\Users\PC-CITT\Desktop\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\PC-CITT\Desktop\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\PC-CITT\Desktop\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\PC-CITT\Desktop\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\PC-CITT\Desktop\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\PC-CITT\Desktop\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\PC-CITT\Desktop\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\System.Threading.Thread.dll
+C:\Users\PC-CITT\Desktop\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\System.ValueTuple.dll
+C:\Users\PC-CITT\Desktop\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\PC-CITT\Desktop\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\PC-CITT\Desktop\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\System.Xml.XPath.dll
+C:\Users\PC-CITT\Desktop\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\PC-CITT\Desktop\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\vbc.exe
+C:\Users\PC-CITT\Desktop\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\vbc.exe.config
+C:\Users\PC-CITT\Desktop\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\vbc.rsp
+C:\Users\PC-CITT\Desktop\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\VBCSCompiler.exe
+C:\Users\PC-CITT\Desktop\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\PC-CITT\Desktop\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\Inventory.Business.dll
+C:\Users\PC-CITT\Desktop\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\PC-CITT\Desktop\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\Inventory.Business.pdb
+C:\Users\PC-CITT\Desktop\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\PC-CITT\Desktop\ProyectoCiTT\InventarioCitt\Inventory.Presentation\obj\Debug\Inventory.Presentation.csprojAssemblyReference.cache
+C:\Users\PC-CITT\Desktop\ProyectoCiTT\InventarioCitt\Inventory.Presentation\obj\Debug\Inventory.Presentation.csproj.CoreCompileInputs.cache
+C:\Users\PC-CITT\Desktop\ProyectoCiTT\InventarioCitt\Inventory.Presentation\obj\Debug\Inventory.Presentation.csproj.CopyComplete
+C:\Users\PC-CITT\Desktop\ProyectoCiTT\InventarioCitt\Inventory.Presentation\obj\Debug\Inventory.Presentation.dll
+C:\Users\PC-CITT\Desktop\ProyectoCiTT\InventarioCitt\Inventory.Presentation\obj\Debug\Inventory.Presentation.pdb
+C:\Users\PC-CITT\Desktop\DEN\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\Inventory.Presentation.dll.config
+C:\Users\PC-CITT\Desktop\DEN\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\Inventory.Presentation.dll
+C:\Users\PC-CITT\Desktop\DEN\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\Inventory.Presentation.pdb
+C:\Users\PC-CITT\Desktop\DEN\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\csc.exe
+C:\Users\PC-CITT\Desktop\DEN\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\csc.exe.config
+C:\Users\PC-CITT\Desktop\DEN\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\csc.rsp
+C:\Users\PC-CITT\Desktop\DEN\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\csi.exe
+C:\Users\PC-CITT\Desktop\DEN\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\csi.exe.config
+C:\Users\PC-CITT\Desktop\DEN\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\csi.rsp
+C:\Users\PC-CITT\Desktop\DEN\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\PC-CITT\Desktop\DEN\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\PC-CITT\Desktop\DEN\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\PC-CITT\Desktop\DEN\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\PC-CITT\Desktop\DEN\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\PC-CITT\Desktop\DEN\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\PC-CITT\Desktop\DEN\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\PC-CITT\Desktop\DEN\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\PC-CITT\Desktop\DEN\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\PC-CITT\Desktop\DEN\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\PC-CITT\Desktop\DEN\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\PC-CITT\Desktop\DEN\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\System.AppContext.dll
+C:\Users\PC-CITT\Desktop\DEN\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\PC-CITT\Desktop\DEN\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\System.Console.dll
+C:\Users\PC-CITT\Desktop\DEN\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\PC-CITT\Desktop\DEN\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\PC-CITT\Desktop\DEN\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\PC-CITT\Desktop\DEN\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\System.IO.Compression.dll
+C:\Users\PC-CITT\Desktop\DEN\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\PC-CITT\Desktop\DEN\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\PC-CITT\Desktop\DEN\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\PC-CITT\Desktop\DEN\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\System.IO.Pipes.dll
+C:\Users\PC-CITT\Desktop\DEN\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\PC-CITT\Desktop\DEN\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\PC-CITT\Desktop\DEN\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\System.Security.Claims.dll
+C:\Users\PC-CITT\Desktop\DEN\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\PC-CITT\Desktop\DEN\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\PC-CITT\Desktop\DEN\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\PC-CITT\Desktop\DEN\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\PC-CITT\Desktop\DEN\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\PC-CITT\Desktop\DEN\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\PC-CITT\Desktop\DEN\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\System.Threading.Thread.dll
+C:\Users\PC-CITT\Desktop\DEN\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\System.ValueTuple.dll
+C:\Users\PC-CITT\Desktop\DEN\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\PC-CITT\Desktop\DEN\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\PC-CITT\Desktop\DEN\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\System.Xml.XPath.dll
+C:\Users\PC-CITT\Desktop\DEN\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\PC-CITT\Desktop\DEN\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\vbc.exe
+C:\Users\PC-CITT\Desktop\DEN\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\vbc.exe.config
+C:\Users\PC-CITT\Desktop\DEN\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\vbc.rsp
+C:\Users\PC-CITT\Desktop\DEN\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\VBCSCompiler.exe
+C:\Users\PC-CITT\Desktop\DEN\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\PC-CITT\Desktop\DEN\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\Inventory.Business.dll
+C:\Users\PC-CITT\Desktop\DEN\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\PC-CITT\Desktop\DEN\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\Inventory.Business.pdb
+C:\Users\PC-CITT\Desktop\DEN\ProyectoCiTT\InventarioCitt\Inventory.Presentation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\PC-CITT\Desktop\DEN\ProyectoCiTT\InventarioCitt\Inventory.Presentation\obj\Debug\Inventory.Presentation.csprojAssemblyReference.cache
+C:\Users\PC-CITT\Desktop\DEN\ProyectoCiTT\InventarioCitt\Inventory.Presentation\obj\Debug\Inventory.Presentation.csproj.CoreCompileInputs.cache
+C:\Users\PC-CITT\Desktop\DEN\ProyectoCiTT\InventarioCitt\Inventory.Presentation\obj\Debug\Inventory.Presentation.csproj.CopyComplete
+C:\Users\PC-CITT\Desktop\DEN\ProyectoCiTT\InventarioCitt\Inventory.Presentation\obj\Debug\Inventory.Presentation.dll
+C:\Users\PC-CITT\Desktop\DEN\ProyectoCiTT\InventarioCitt\Inventory.Presentation\obj\Debug\Inventory.Presentation.pdb
+C:\Users\CITT_PC\Desktop\InventarioCitt\Inventory.Presentation\bin\Inventory.Presentation.dll.config
+C:\Users\CITT_PC\Desktop\InventarioCitt\Inventory.Presentation\bin\Inventory.Presentation.dll
+C:\Users\CITT_PC\Desktop\InventarioCitt\Inventory.Presentation\bin\Inventory.Presentation.pdb
+C:\Users\CITT_PC\Desktop\InventarioCitt\Inventory.Presentation\bin\roslyn\csc.exe
+C:\Users\CITT_PC\Desktop\InventarioCitt\Inventory.Presentation\bin\roslyn\csc.exe.config
+C:\Users\CITT_PC\Desktop\InventarioCitt\Inventory.Presentation\bin\roslyn\csc.rsp
+C:\Users\CITT_PC\Desktop\InventarioCitt\Inventory.Presentation\bin\roslyn\csi.exe
+C:\Users\CITT_PC\Desktop\InventarioCitt\Inventory.Presentation\bin\roslyn\csi.exe.config
+C:\Users\CITT_PC\Desktop\InventarioCitt\Inventory.Presentation\bin\roslyn\csi.rsp
+C:\Users\CITT_PC\Desktop\InventarioCitt\Inventory.Presentation\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\CITT_PC\Desktop\InventarioCitt\Inventory.Presentation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\CITT_PC\Desktop\InventarioCitt\Inventory.Presentation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\CITT_PC\Desktop\InventarioCitt\Inventory.Presentation\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\CITT_PC\Desktop\InventarioCitt\Inventory.Presentation\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\CITT_PC\Desktop\InventarioCitt\Inventory.Presentation\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\CITT_PC\Desktop\InventarioCitt\Inventory.Presentation\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\CITT_PC\Desktop\InventarioCitt\Inventory.Presentation\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\CITT_PC\Desktop\InventarioCitt\Inventory.Presentation\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\CITT_PC\Desktop\InventarioCitt\Inventory.Presentation\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\CITT_PC\Desktop\InventarioCitt\Inventory.Presentation\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\CITT_PC\Desktop\InventarioCitt\Inventory.Presentation\bin\roslyn\System.AppContext.dll
+C:\Users\CITT_PC\Desktop\InventarioCitt\Inventory.Presentation\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\CITT_PC\Desktop\InventarioCitt\Inventory.Presentation\bin\roslyn\System.Console.dll
+C:\Users\CITT_PC\Desktop\InventarioCitt\Inventory.Presentation\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\CITT_PC\Desktop\InventarioCitt\Inventory.Presentation\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\CITT_PC\Desktop\InventarioCitt\Inventory.Presentation\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\CITT_PC\Desktop\InventarioCitt\Inventory.Presentation\bin\roslyn\System.IO.Compression.dll
+C:\Users\CITT_PC\Desktop\InventarioCitt\Inventory.Presentation\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\CITT_PC\Desktop\InventarioCitt\Inventory.Presentation\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\CITT_PC\Desktop\InventarioCitt\Inventory.Presentation\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\CITT_PC\Desktop\InventarioCitt\Inventory.Presentation\bin\roslyn\System.IO.Pipes.dll
+C:\Users\CITT_PC\Desktop\InventarioCitt\Inventory.Presentation\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\CITT_PC\Desktop\InventarioCitt\Inventory.Presentation\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\CITT_PC\Desktop\InventarioCitt\Inventory.Presentation\bin\roslyn\System.Security.Claims.dll
+C:\Users\CITT_PC\Desktop\InventarioCitt\Inventory.Presentation\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\CITT_PC\Desktop\InventarioCitt\Inventory.Presentation\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\CITT_PC\Desktop\InventarioCitt\Inventory.Presentation\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\CITT_PC\Desktop\InventarioCitt\Inventory.Presentation\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\CITT_PC\Desktop\InventarioCitt\Inventory.Presentation\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\CITT_PC\Desktop\InventarioCitt\Inventory.Presentation\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\CITT_PC\Desktop\InventarioCitt\Inventory.Presentation\bin\roslyn\System.Threading.Thread.dll
+C:\Users\CITT_PC\Desktop\InventarioCitt\Inventory.Presentation\bin\roslyn\System.ValueTuple.dll
+C:\Users\CITT_PC\Desktop\InventarioCitt\Inventory.Presentation\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\CITT_PC\Desktop\InventarioCitt\Inventory.Presentation\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\CITT_PC\Desktop\InventarioCitt\Inventory.Presentation\bin\roslyn\System.Xml.XPath.dll
+C:\Users\CITT_PC\Desktop\InventarioCitt\Inventory.Presentation\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\CITT_PC\Desktop\InventarioCitt\Inventory.Presentation\bin\roslyn\vbc.exe
+C:\Users\CITT_PC\Desktop\InventarioCitt\Inventory.Presentation\bin\roslyn\vbc.exe.config
+C:\Users\CITT_PC\Desktop\InventarioCitt\Inventory.Presentation\bin\roslyn\vbc.rsp
+C:\Users\CITT_PC\Desktop\InventarioCitt\Inventory.Presentation\bin\roslyn\VBCSCompiler.exe
+C:\Users\CITT_PC\Desktop\InventarioCitt\Inventory.Presentation\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\CITT_PC\Desktop\InventarioCitt\Inventory.Presentation\bin\EntityFramework.dll
+C:\Users\CITT_PC\Desktop\InventarioCitt\Inventory.Presentation\bin\EntityFramework.SqlServer.dll
+C:\Users\CITT_PC\Desktop\InventarioCitt\Inventory.Presentation\bin\Inventory.Business.dll
+C:\Users\CITT_PC\Desktop\InventarioCitt\Inventory.Presentation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\CITT_PC\Desktop\InventarioCitt\Inventory.Presentation\bin\Inventory.Data.dll
+C:\Users\CITT_PC\Desktop\InventarioCitt\Inventory.Presentation\bin\Inventory.Business.pdb
+C:\Users\CITT_PC\Desktop\InventarioCitt\Inventory.Presentation\bin\Inventory.Business.dll.config
+C:\Users\CITT_PC\Desktop\InventarioCitt\Inventory.Presentation\bin\EntityFramework.xml
+C:\Users\CITT_PC\Desktop\InventarioCitt\Inventory.Presentation\bin\EntityFramework.SqlServer.xml
+C:\Users\CITT_PC\Desktop\InventarioCitt\Inventory.Presentation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\CITT_PC\Desktop\InventarioCitt\Inventory.Presentation\bin\Inventory.Data.pdb
+C:\Users\CITT_PC\Desktop\InventarioCitt\Inventory.Presentation\bin\Inventory.Data.dll.config
+C:\Users\CITT_PC\Desktop\InventarioCitt\Inventory.Presentation\obj\Debug\Inventory.Presentation.csprojAssemblyReference.cache
+C:\Users\CITT_PC\Desktop\InventarioCitt\Inventory.Presentation\obj\Debug\Inventory.Presentation.csproj.CoreCompileInputs.cache
+C:\Users\CITT_PC\Desktop\InventarioCitt\Inventory.Presentation\obj\Debug\Inventory.Presentation.csproj.CopyComplete
+C:\Users\CITT_PC\Desktop\InventarioCitt\Inventory.Presentation\obj\Debug\Inventory.Presentation.dll
+C:\Users\CITT_PC\Desktop\InventarioCitt\Inventory.Presentation\obj\Debug\Inventory.Presentation.pdb
